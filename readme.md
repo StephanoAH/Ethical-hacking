@@ -1,6 +1,6 @@
-# Pythons notes
+# Etichal hacking notes
 
-A system to collect and organize notes from python and tips for python projects.
+A system to collect and organize notes and tips for etichal hacking.
 
 ## Links
 
